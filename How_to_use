@@ -1,0 +1,22 @@
+First, rotate the AB axis to the xy plane
+Second, write OPTCELL file
+
+Fix C:
+110
+110
+000
+
+Fix AB:
+000
+000
+001
+
+Fix-angle(A,B):
+100
+010
+111
+
+Fix-angle(A,B) and Fix-C:
+100
+010
+000
